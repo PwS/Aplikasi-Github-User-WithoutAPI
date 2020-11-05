@@ -16,5 +16,7 @@ Submission Github User 1 - Belajar Fundamental  Aplikasi Android
 - [✓] SplashScreen
 
 ## Preview
+|<img src="https://raw.githubusercontent.com/PwS/DicodingSubmission/master/HomePage.PNG" alt="list" width="300px" height="500px" />|
+<img src="https://raw.githubusercontent.com/PwS/DicodingSubmission/master/DetailUsers.PNG" alt="detail" width="300px" height="500px" />|
 |:---:|:---:|
 |List User|Detail User|
