@@ -3,7 +3,7 @@ Submission Github User 1 - Belajar Fundamental  Aplikasi Android
 
 ## Features
 - [✓] Display Data at least 10 Items using ListView
-- [✓] Detail page for each data that wil contains
+- [✓] Details page for each data that will contains
 ```bash
 		[✚] Avatar
 		[✚] Username
